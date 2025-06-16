@@ -1,0 +1,57 @@
+body{
+    background-color: #cbc5c5;
+    padding: 0px;
+    margin: 0px;
+}
+.flex-bar{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: Creo;
+    border-style: solid;
+    padding: 10px;
+    border-color: grey;
+}
+a{
+    text-decoration: none;
+    color: #495057;
+}
+h1{
+    text-align: center;
+    font-family: Poppins;
+    color: #71879f;
+}
+.matura{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 350px;
+    height: 470px;
+    object-fit: cover;
+    border-radius: 100px;
+    border-style: dotted;
+}
+h2{
+    text-align: center;
+    font-size: 45px;
+    font-weight: lighter;
+    font-family: Blacksword;
+    margin: 0px;
+    color: #495057;
+}
+.freshman{
+    font-family: Poppins;
+    font-size: 35px;
+    text-align: center;
+    font-weight: lighter;
+    margin: 5px;
+}
+.poramnet{
+    display: flex;
+    justify-content: space-evenly;
+}
+.paragraphi{
+    font-size: 20px;
+    font-family: Montserrat;
+}

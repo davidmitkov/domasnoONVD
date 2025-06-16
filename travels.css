@@ -1,0 +1,29 @@
+body{
+    background-color: #cbc5c5;
+    padding: 0px;
+    margin: 0px;
+}
+.flex-bar{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: Creo;
+    border-style: solid;
+    padding: 10px;
+    border-color: grey;
+}
+a{
+    text-decoration: none;
+    color: #495057;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+.fotka{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

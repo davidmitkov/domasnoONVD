@@ -1,0 +1,31 @@
+body{
+    background-color: #cbc5c5;
+    padding: 0px;
+    margin: 0px;
+}
+.flex-bar{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    font-family: Creo;
+    border-style: solid;
+    padding: 10px;
+    border-color: grey;
+}
+a{
+    text-decoration: none;
+    color: #495057;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    font-family: Poppins;
+}
+img{
+    width: 400px;
+    height: 500px;
+}
+.photos{
+    display: flex;
+    justify-content: space-evenly;
+}
